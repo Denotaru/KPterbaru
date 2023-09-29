@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.tsx", "app/login/page.tsx", "app/keramaian/page.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/page.tsx", "app/login/page.tsx", "app/keramaian/page.tsx", "app/kematian/page.tsx", "app/kematian/page.jsx"],
   "exclude": ["node_modules"]
 }
